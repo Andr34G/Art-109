@@ -48,5 +48,6 @@ html {
     display: inline-block; background-color: blanchedalmond;
     animation-name: stretching;
     animation-duration: 10s;
+    animation-iteration-count: infinite;
   }
   
